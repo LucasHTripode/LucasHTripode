@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Tripode</h1>
+<h1 align="center">Welcome, I'm Lucas Tripode 👋</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucashtripode&label=Profile%20views&color=0e75b6&style=flat" alt="lucashtripode" /> </p>
