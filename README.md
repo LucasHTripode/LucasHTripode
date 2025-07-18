@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Lucas Tripode</h1>
+<h1 align="left">Welcome I'm Lucas Tripode 👋</h1>
 
 <h2 align="left">About Me</h2>
 
-<h3 align="left"> A passionate fullstack developer from Argentina. I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.</h3>
+<h4 align="left"> A passionate fullstack developer from Argentina. I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucashtripode&label=Profile%20views&color=0e75b6&style=flat" alt="lucashtripode" /> </p>
 
