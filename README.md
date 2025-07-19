@@ -12,7 +12,7 @@
 
 ### Web Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucasHTripode&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
- <!-- <img src="https://raw.githubusercontent.com/LucasHTripode/INGCapaDev/output/snake.svg" alt="Snake animation" />
+ <!-- <img src="https://raw.githubusercontent.com/LucasHTripode/LucasHTripode/output/snake.svg" alt="Snake animation" />
   
   #### 🏆 GitHub Trophies
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=LucasHTripode&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
@@ -82,7 +82,7 @@
 ## Links:
 <!--[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa))-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucas-tripode/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@LucasTripode-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucas-tripode/)
 <!--[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)-->
 
 ## Contact:
