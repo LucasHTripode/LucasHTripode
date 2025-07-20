@@ -61,9 +61,9 @@
 
 ## Links:
 [![Website](https://img.shields.io/badge/Website-LucasHTripode-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://lucashtripode.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa))
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@LucasTripode-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucas-tripode)
-[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
+<!-- [![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com) -->
 
 ## Contact:
 [![Email](https://img.shields.io/badge/lucas.tripode.6@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucas.tripode.6@gmail.com)
